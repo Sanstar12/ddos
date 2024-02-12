@@ -1,5 +1,5 @@
 # Made by Aron
-This code is simple ddos method send spam threads to target
+This c2 is connected on my dedicated server send millions of requests to target
 ## How to install? Just copy each command and paste in termux
 ```bash
 pkg update && pkg upgrade -y
