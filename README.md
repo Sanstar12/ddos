@@ -2,7 +2,15 @@
 This code is simple ddos method send spam threads to target
 ## How to install? Just copy each command and paste in termux
 ```bash
-pkg update && pkg upgrade -y && pkg install git && pkg install python-pip
+pkg update && pkg upgrade -y
+```
+
+```bash
+pkg install git
+```
+
+```bash
+pkg install python-pip
 ```
 
 ```bash
