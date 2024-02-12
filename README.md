@@ -1,4 +1,4 @@
-# Made by Aron
+# Made by Aron from Indonesia
 # This c2 is connected on my dedicated server send millions of requests to target
 # How to install? Just copy each command and paste in termux
 ```bash
