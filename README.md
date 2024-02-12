@@ -2,7 +2,7 @@
 This code is simple ddos method send spam threads to target
 ## How to install? Just copy each command and paste in termux
 ```bash
-apt update && apt upgrade -y && apt install git
+pkg update && pkg upgrade -y && pkg install git
 ```
 
 ```bash
